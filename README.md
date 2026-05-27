@@ -2,7 +2,6 @@
 
 
 <a href="https://github.com/zhiminzhang0830"><img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png"/></a>
-<a href="https://github.com/zhiminzhang0830"><img src="https://probot.media/9EuBIqgapI.gif"/></a>
 
 ![python](https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![PaddlePaddle](https://img.shields.io/badge/-PaddlePaddle-0062B0?style=flat-square&logo=baidu&logoColor=white)
@@ -21,7 +20,7 @@
 
 - 🔭 **Career:** AI-Native Engineer
 - 🔧 **Focus:** AI Agent · Deep Learning · OCR · AI for Science
-- 👯 **Organization:** [PaddlePaddle](https://github.com/PaddlePaddle) Contributor
+- 👯 **Organization:** [PaddleMaterials](https://github.com/PaddlePaddle/PaddleMaterials)  ·  [PaddlePaddle](https://github.com/PaddlePaddle)  · [PaddleScience](https://github.com/PaddlePaddle/PaddleScience) Contributor
 
 - ⚡ **Fun fact:** 调一天 bug 不如改一句 Prompt，改一句 Prompt 不如重开一个会话。
 
@@ -31,16 +30,18 @@
 
 #### 🔬 Agent
 - [CiCiAgent](https://github.com/zhiminzhang0830/CiCiAgent) - A minimal, hackable coding agent for your terminal — ~9k lines of Python, multi-provider, with real tools, sub-agents, MCP, and a Textual TUI.
+- [ReasoningBank](https://github.com/zhiminzhang0830/ReasoningBank) - A standalone, minimal implementation of the Reasoning Bank algorithm — with optional MaTTS (Memory-aware Test-Time Scaling) parallel scaling — in a single runnable script.
 
-
+#### Diffusion & VAE
+- [VAE](https://github.com/zhiminzhang0830/VAE_Paddle) - Minimal Implementation of a VAE(Variational Autoencoder) with PaddlePaddle.
+- [D3PM](https://github.com/zhiminzhang0830/D3PM_Paddle) - Minimal Implementation of Discrete Denoising Diffusion Probabilistic Model (D3PM) with PaddlePaddle.
+- 
 
 #### 🔍 OCR
 - [FCENet_Paddle](https://github.com/zhiminzhang0830/FCENet_Paddle) — FCENet 文本检测
 - [DRRG_Paddle](https://github.com/zhiminzhang0830/DRRG_Paddle) — 基于 PaddleOCR 复现 DRRG
 - [RFLearning_Paddle](https://github.com/zhiminzhang0830/RFLearning_Paddle) — RF-Learning 文本识别
 - [RoIAlignRotated_Paddle](https://github.com/zhiminzhang0830/RoIAlignRotated_Paddle) — Paddle 版本的 RoIAlignRotated 算子
-
-
 
 ---
 
