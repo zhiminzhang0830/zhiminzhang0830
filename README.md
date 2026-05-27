@@ -48,18 +48,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhiminzhang0830&theme=tokyonight&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhiminzhang0830&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhiminzhang0830&hide_border=true&theme=tokyonight&hide=TeX&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhiminzhang0830&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/zhiminzhang0830/zhiminzhang0830/output/github-contribution-grid-snake.svg" />
 </p>
