@@ -28,14 +28,14 @@
 
 ### 🚀 Featured Repositories
 
-#### 🔬 Agent
+#### 🧠 Agent
 - [CiCiAgent](https://github.com/zhiminzhang0830/CiCiAgent) - A minimal, hackable coding agent for your terminal — ~9k lines of Python, multi-provider, with real tools, sub-agents, MCP, and a Textual TUI.
 - [ReasoningBank](https://github.com/zhiminzhang0830/ReasoningBank) - A standalone, minimal implementation of the Reasoning Bank algorithm — with optional MaTTS (Memory-aware Test-Time Scaling) parallel scaling — in a single runnable script.
 
-#### Diffusion & VAE
+#### 🔬 Diffusion & VAE
 - [VAE](https://github.com/zhiminzhang0830/VAE_Paddle) - Minimal Implementation of a VAE(Variational Autoencoder) with PaddlePaddle.
 - [D3PM](https://github.com/zhiminzhang0830/D3PM_Paddle) - Minimal Implementation of Discrete Denoising Diffusion Probabilistic Model (D3PM) with PaddlePaddle.
-- 
+
 
 #### 🔍 OCR
 - [FCENet_Paddle](https://github.com/zhiminzhang0830/FCENet_Paddle) — FCENet 文本检测
@@ -44,6 +44,15 @@
 - [RoIAlignRotated_Paddle](https://github.com/zhiminzhang0830/RoIAlignRotated_Paddle) — Paddle 版本的 RoIAlignRotated 算子
 
 ---
+
+
+### 🌱 Blogs
+
+- [Pareto Optimality](https://github.com/zhiminzhang0830/blogs/blob/main/Pareto-Optimality.md) — 从帕累托最优到帕累托前沿：效用函数在多目标决策中的核心作用
+
+---
+
+
 
 ### 📊 GitHub Stats
 
