@@ -49,6 +49,7 @@
 ### 🌱 Blogs
 
 - [Pareto Optimality](https://github.com/zhiminzhang0830/blogs/blob/main/Pareto-Optimality.md) — 从帕累托最优到帕累托前沿：效用函数在多目标决策中的核心作用
+- [Conformal Prediction](https://github.com/zhiminzhang0830/blogs/blob/main/conformal_prediction.md) - 你的模型说自己 99% 准，凭什么？——聊聊 Conformal Prediction
 
 ---
 
